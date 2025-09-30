@@ -18,23 +18,23 @@ Source: MySQL database project_automobile_insurance
 
 Key Columns:
 
-Company_Name — Name of the insurance company
+Company_Name
 
-Filing_Year — Year when the complaint was closed
+Filing_Year
 
-Upheld_Complaints — Valid complaints confirmed by regulators
+Upheld_Complaints
 
-Question_of_Fact_Complaints — Complaints pending confirmation
+Question_of_Fact_Complaints
 
-Not_Upheld_Complaints — Withdrawn/invalid complaints
+Not_Upheld_Complaints
 
-Total_Complaints — Sum of all complaint types
+Total_Complaints
 
-Premiums_Written (in Millions) — Average premiums collected in NYS over two years
+Premiums_Written (in Millions)
 
-Rank — DFS ranking based on complaint ratios
+Rank
 
-Ratio — Complaint ratio = Upheld complaints ÷ Premiums written
+Ratio
 
 🧮 Analysis Performed
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
